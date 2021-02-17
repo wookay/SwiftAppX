@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftPkgA",
+        "repositoryURL": "git@github.com:wookay/SwiftPkgA.git",
+        "state": {
+          "branch": "master",
+          "revision": "cbe65a2485a4e64053a7b9454b7d76c90311efba",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
